@@ -1,7 +1,7 @@
 <?php
     $host = "127.0.0.1";
     $username = "root";
-    $password = "RJ9414/*-+";
+    $password = "your_databases_password";
     $database = "empresa";
 
     //criando conexao
